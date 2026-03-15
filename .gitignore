@@ -1,0 +1,23 @@
+# Binaries and build output
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go workspace/cache artifacts
+bin/
+dist/
+coverage.out
+
+# Runtime output
+captures/
+*.png
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
